@@ -1,0 +1,12 @@
+{
+    "write_to_disk": "1", 
+    "path_to_event_file": "/media/cedric/storage_ext4/data/preprocessed_datasets/CED/CED_indoors/indoors_office/events.txt", 
+    "data_source": "0", 
+    "topic_cam0": "/dvs/image_raw", 
+    "num_imus": "0", 
+    "num_event_cams": "1", 
+    "output_directory": "/media/cedric/storage_ext4/data/preprocessed_datasets/CED/CED_indoors/indoors_office", 
+    "topic_event_cam0": "/dvs/events", 
+    "bag_filename": "/media/cedric/deep_storage/data/CED/CED_indoors/indoors_office.bag", 
+    "num_cams": "1"
+}
